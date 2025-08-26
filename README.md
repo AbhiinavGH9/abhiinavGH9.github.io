@@ -59,20 +59,6 @@
 
 ---
 
-## ╭── ⋅ ⋅ ── ✦ ── ⋅ ⋅ ──╮  
-###  INSTALLATION  
-## ╰── ⋅ ⋅ ── ✦ ── ⋅ ⋅ ──╯  
-
-```bash
-git clone https://github.com/yourusername/planet-ripper.git
-cd planet-ripper
-open index.html
-````
-
-Or deploy via **GitHub Pages / Vercel / Netlify**.
-
----
-
 ## ╭── ⋅ ⋅ ── ✦ ── ⋅ ⋅ ──╮
 
 ### CREDITS
